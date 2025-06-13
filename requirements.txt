@@ -1,0 +1,2 @@
+Pillow
+# tkinter is part of the standard library in most Python distributions (no need to install separately)
